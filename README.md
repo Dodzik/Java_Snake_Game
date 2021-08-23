@@ -1,5 +1,5 @@
 # Snake
-Simple Snake game in Java using Jframe
+Simple Snake game in Java using JFrame
 
 ## Controls:
-`W,S,A,D - control snake`
+`W,S,A,D - control snake`S
