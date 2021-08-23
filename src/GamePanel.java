@@ -21,9 +21,12 @@ public class GamePanel extends JPanel implements ActionListener {
     final int y[] = new int[GAME_UNITS];
     //number of snake parts
     int bodyParts = 6;
+    //Score
     int applesEaten;
+    //coordinates of apple
     int appleX;
     int appleY;
+    //direction of the snake's movement
     char direction = 'R';
     boolean running = false;
     Timer timer;
